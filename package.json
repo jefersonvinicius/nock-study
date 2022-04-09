@@ -1,0 +1,17 @@
+{
+  "name": "nock-study",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon --exec node src/server.js --watch src/server.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nock": "^13.2.4",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^6.1.2",
+    "axios": "^0.26.1"
+  }
+}

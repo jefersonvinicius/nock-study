@@ -1,0 +1,152 @@
+{
+  "scope": "http://localhost:3333",
+  "method": "GET",
+  "path": "/",
+  "body": "",
+  "status": 200,
+  "response": {
+    "items": [
+      { "username": "Ashtyn.Herzog", "email": "Ashtyn.Herzog_Bayer86@yahoo.com", "creditCard": "6771657068789471" },
+      { "username": "Obie29", "email": "Obie29.Spinka@gmail.com", "creditCard": "3416-291211-68197" },
+      { "username": "Erika48", "email": "Erika48.Berge13@gmail.com", "creditCard": "630498966313843529" },
+      { "username": "Scotty.Rempel70", "email": "Scotty.Rempel707@hotmail.com", "creditCard": "6384-8550-9750-7091" },
+      {
+        "username": "Kendall_Kulas76",
+        "email": "Kendall_Kulas76.Dietrich69@gmail.com",
+        "creditCard": "6771-8922-8804-8408"
+      },
+      {
+        "username": "Bernhard.Rohan19",
+        "email": "Bernhard.Rohan19_Altenwerth@yahoo.com",
+        "creditCard": "3589-2963-7521-7590"
+      },
+      { "username": "Tracey56", "email": "Tracey56_Rolfson@hotmail.com", "creditCard": "6706063305472273005" },
+      { "username": "Lucile89", "email": "Lucile89.Morar27@gmail.com", "creditCard": "6767-1962-0989-8301" },
+      { "username": "Hardy_Rogahn", "email": "Hardy_Rogahn20@gmail.com", "creditCard": "3529-5736-2680-0140" },
+      { "username": "Miguel.Schoen28", "email": "Miguel.Schoen28_Ratke@yahoo.com", "creditCard": "4890238479392" },
+      { "username": "Cleta.Brekke4", "email": "Cleta.Brekke4.Deckow@yahoo.com", "creditCard": "4074-0248-6853-9769" },
+      {
+        "username": "Raul_Champlin",
+        "email": "Raul_Champlin_Kemmer41@hotmail.com",
+        "creditCard": "6392-1956-2110-6094"
+      },
+      { "username": "Florian50", "email": "Florian50_Boehm50@gmail.com", "creditCard": "4048-6767-9399-1537" },
+      { "username": "Brenda_Weimann", "email": "Brenda_Weimann49@yahoo.com", "creditCard": "3721-455448-86420" },
+      { "username": "Watson_Rowe", "email": "Watson_Rowe_Mueller99@yahoo.com", "creditCard": "5402-3712-3921-3024" },
+      {
+        "username": "Mauricio_Predovic",
+        "email": "Mauricio_Predovic.Huel86@yahoo.com",
+        "creditCard": "3528-5306-0301-4385"
+      },
+      {
+        "username": "Alexzander_Powlowski",
+        "email": "Alexzander_Powlowski.Leffler79@gmail.com",
+        "creditCard": "6383-7112-3296-2243"
+      },
+      {
+        "username": "Bradly.Macejkovic85",
+        "email": "Bradly.Macejkovic85_Oberbrunner@hotmail.com",
+        "creditCard": "4161-8522-6596-9229"
+      },
+      {
+        "username": "Alisha_Armstrong",
+        "email": "Alisha_Armstrong.Thompson@hotmail.com",
+        "creditCard": "6709290199352372713"
+      },
+      { "username": "Abner83", "email": "Abner83_Kutch@gmail.com", "creditCard": "4344160160939" },
+      { "username": "Elmore.Schumm", "email": "Elmore.Schumm49@yahoo.com", "creditCard": "6759-8661-7889-6985" },
+      { "username": "Myrna.Pagac85", "email": "Myrna.Pagac857@hotmail.com", "creditCard": "3584-9459-1189-7821" },
+      {
+        "username": "Joshuah.Lakin71",
+        "email": "Joshuah.Lakin71.Prohaska19@yahoo.com",
+        "creditCard": "6767-2866-8553-2506"
+      },
+      { "username": "Okey_Franey", "email": "Okey_Franey19@yahoo.com", "creditCard": "6767-0738-1837-5432-58" },
+      { "username": "Diana_Hilpert86", "email": "Diana_Hilpert860@yahoo.com", "creditCard": "670652450447806785" },
+      {
+        "username": "Lazaro.Wiza10",
+        "email": "Lazaro.Wiza10_Reichel@yahoo.com",
+        "creditCard": "6767-2042-8425-0787-959"
+      },
+      { "username": "Shany.Boyer", "email": "Shany.Boyer93@hotmail.com", "creditCard": "6767-9315-7734-9974" },
+      {
+        "username": "Dwight_Hauck75",
+        "email": "Dwight_Hauck75.Gottlieb64@yahoo.com",
+        "creditCard": "6771-8956-6565-6349"
+      },
+      {
+        "username": "Emmitt_Tillman",
+        "email": "Emmitt_Tillman.Schuster@gmail.com",
+        "creditCard": "6761839946824438558"
+      },
+      { "username": "Maida.Dickens71", "email": "Maida.Dickens710@yahoo.com", "creditCard": "5306-6823-1639-9190" },
+      { "username": "Thora_Willms", "email": "Thora_Willms70@gmail.com", "creditCard": "3480-211021-74243" },
+      { "username": "Yvette32", "email": "Yvette3284@yahoo.com", "creditCard": "6382-3583-7711-9657" },
+      { "username": "Ruby.Waelchi", "email": "Ruby.Waelchi82@gmail.com", "creditCard": "6759-5378-5075-5412-342" },
+      { "username": "Vincent.Will46", "email": "Vincent.Will46.Larson@yahoo.com", "creditCard": "6374-9816-8964-0054" },
+      {
+        "username": "Winifred_Rodriguez70",
+        "email": "Winifred_Rodriguez70_Runte@yahoo.com",
+        "creditCard": "4392-4359-2147-2122"
+      },
+      {
+        "username": "Kristopher.Shanahan",
+        "email": "Kristopher.Shanahan.Mohr@gmail.com",
+        "creditCard": "5446-4473-2771-0463"
+      },
+      {
+        "username": "Loma_Rutherford46",
+        "email": "Loma_Rutherford46_Hilpert81@yahoo.com",
+        "creditCard": "3529-2337-8097-5604"
+      },
+      { "username": "Carleton49", "email": "Carleton49_Conroy93@gmail.com", "creditCard": "589395870711987052" },
+      {
+        "username": "Ernie.Hartmann9",
+        "email": "Ernie.Hartmann946@gmail.com",
+        "creditCard": "6474-6289-5351-3180-7709"
+      },
+      { "username": "Bernie.Hegmann", "email": "Bernie.Hegmann66@gmail.com", "creditCard": "3535-5839-4872-1722" },
+      { "username": "Hellen6", "email": "Hellen67@hotmail.com", "creditCard": "3585-4289-5254-9297" },
+      {
+        "username": "Richie.Douglas",
+        "email": "Richie.Douglas.Terry@hotmail.com",
+        "creditCard": "6759-7533-2233-4981-051"
+      },
+      { "username": "Kobe_Grady5", "email": "Kobe_Grady583@gmail.com", "creditCard": "4697479912989" },
+      {
+        "username": "Marcus_Quigley14",
+        "email": "Marcus_Quigley14.Wehner@hotmail.com",
+        "creditCard": "6771-8952-7742-6618"
+      },
+      {
+        "username": "Walter.Jakubowski",
+        "email": "Walter.Jakubowski_Beier@hotmail.com",
+        "creditCard": "5018-9611-5307-8312"
+      },
+      {
+        "username": "Russell.Dickens55",
+        "email": "Russell.Dickens55_OKon75@gmail.com",
+        "creditCard": "6709087810159814629"
+      },
+      {
+        "username": "Fiona_MacGyver",
+        "email": "Fiona_MacGyver_Hermiston80@yahoo.com",
+        "creditCard": "6767-9479-7016-3997-13"
+      },
+      { "username": "Adam52", "email": "Adam5299@hotmail.com", "creditCard": "3528-3878-3866-1587" },
+      { "username": "Emilio83", "email": "Emilio83_Lockman@hotmail.com", "creditCard": "6767-3134-2109-2994-84" }
+    ],
+    "total": 49
+  },
+  "rawHeaders": [
+    "Content-Type",
+    "application/json",
+    "Date",
+    "Sat, 09 Apr 2022 00:20:56 GMT",
+    "Connection",
+    "close",
+    "Content-Length",
+    "5146"
+  ],
+  "responseIsBinary": false
+}
